@@ -1,0 +1,9 @@
+# WorkBuddy 项目/云端数据，不入库
+.workbuddy-ai/
+.workbuddy/
+.wbapp_*.genie
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+*.swp
